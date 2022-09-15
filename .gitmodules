@@ -1,0 +1,3 @@
+[submodule "code-network"]
+	path = code-network
+	url = https://github.com/GuYOAli/CN-VSCode-Theme.git
